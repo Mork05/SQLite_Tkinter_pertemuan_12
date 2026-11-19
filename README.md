@@ -1,1 +1,0 @@
-# SQLite_Tkinter_pertemuan_12
